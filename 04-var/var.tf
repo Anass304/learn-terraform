@@ -4,4 +4,6 @@ variable "sample"{
 output "sample" {
   value = "var.sample"
 }
-variable "sample1" {}
+variable "sample1" {
+  value= var.sample1
+}
