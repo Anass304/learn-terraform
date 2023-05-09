@@ -34,11 +34,11 @@ output "types" {
     default = [
       {
         course_name  = "aws"
-        trainer_name = "raju"
+        trainer_name = "anass"
       },
       {
         course_name  = "devops"
-        trainer_name = "ravi"
+        trainer_name = "shaik"
       }
     ]
   }
