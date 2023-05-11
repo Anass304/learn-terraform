@@ -8,7 +8,7 @@
 
 1 . Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently.
 
-#Terraform File Extention ?
+#Terraform File Extention 
 
 1 . All the files of terraform should end with .tf or .tf.json file extension.
 
