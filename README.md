@@ -2,13 +2,16 @@
 
 ### We will learn terraform topics.
 
+
 ###What is Terraform ?
 
 1 . Terraform is an open-source, infrastructure as code, software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON.
 
+
 ###Terraform used for ?
 
 1 . Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently.
+
 
 ###Terraform File Extention 
 
@@ -17,6 +20,7 @@
 2 . We can keep multiple files, Files will be loaded in terraform in alphabetical order, but it compiles the list and make its own order.
 
 3 . Execution order will be smartly picked by terraform, Also gives the flexibility to write your own dependencies (depends_on).
+
 
 ###Terraform Commands
 
