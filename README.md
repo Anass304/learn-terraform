@@ -17,9 +17,9 @@
 
 1.  All the files of terraform should end with .tf or .tf.json file extension.
 
-2 . We can keep multiple files, Files will be loaded in terraform in alphabetical order, but it compiles the list and make its own order.
+2. We can keep multiple files, Files will be loaded in terraform in alphabetical order, but it compiles the list and make its own order.
 
-3 . Execution order will be smartly picked by terraform, Also gives the flexibility to write your own dependencies (depends_on).
+3. Execution order will be smartly picked by terraform, Also gives the flexibility to write your own dependencies (depends_on).
 
 
 ###Terraform Commands
@@ -33,5 +33,4 @@
 4. PLAN - Plan will show what the terraform can do on your code when you actually apply.
 
 5. APPLY - Create the actual resources.
-
 6. DESTROY - Delete the actual resources which are created.
